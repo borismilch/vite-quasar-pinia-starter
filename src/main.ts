@@ -14,12 +14,7 @@ import '@quasar/extras/material-icons-outlined/material-icons-outlined.css'
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyChIXPArasxixlaYEpEcNyTXlEZbxV3b7w",
-  authDomain: "builo-tube.firebaseapp.com",
-  projectId: "builo-tube",
-  storageBucket: "builo-tube.appspot.com",
-  messagingSenderId: "327334058483",
-  appId: "1:327334058483:web:ea58de9141b30905295a86"
+ // firebase config
 };
 
 // Initialize Firebase
